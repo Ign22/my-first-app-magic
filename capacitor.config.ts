@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.habithive',
-  appName: 'habithive',
+  appId: 'com.HabitHive.app',
+  appName: 'HabitHive',
   webDir: 'dist'
 };
 
