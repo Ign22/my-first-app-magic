@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">habithive</string>
-    <string name="title_activity_main">habithive</string>
-    <string name="package_name">com.habithive</string>
-    <string name="custom_url_scheme">com.habithive</string>
+    <string name="app_name">HabitHive</string>
+    <string name="title_activity_main">HabitHive</string>
+    <string name="package_name">com.HabitHive.app</string>
+    <string name="custom_url_scheme">com.HabitHive.app</string>
 </resources>
